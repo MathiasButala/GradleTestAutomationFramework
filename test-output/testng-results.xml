@@ -2,44 +2,44 @@
 <testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-09-09T16:17:53 CDT" name="GradleTestAutomationFramework" finished-at="2024-09-09T16:18:13 CDT" duration-ms="19246">
+  <suite started-at="2024-09-10T10:12:40 CDT" name="GradleTestAutomationFramework" finished-at="2024-09-10T10:13:00 CDT" duration-ms="20074">
     <groups>
     </groups>
-    <test started-at="2024-09-09T16:17:53 CDT" name="Login Page Test" finished-at="2024-09-09T16:18:13 CDT" duration-ms="19246">
+    <test started-at="2024-09-10T10:12:40 CDT" name="Login Page Test" finished-at="2024-09-10T10:13:00 CDT" duration-ms="20074">
       <class name="tests.LoginPageTest">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.LoginPageTest@77e6081a]" started-at="2024-09-09T16:17:53 CDT" name="setUp" finished-at="2024-09-09T16:18:02 CDT" duration-ms="8610" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.LoginPageTest@4439a548]" started-at="2024-09-10T10:12:40 CDT" name="setUp" finished-at="2024-09-10T10:12:49 CDT" duration-ms="8293" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="isLoginPageDisplayed()[pri:0, instance:tests.LoginPageTest@77e6081a]" started-at="2024-09-09T16:18:02 CDT" name="isLoginPageDisplayed" finished-at="2024-09-09T16:18:02 CDT" duration-ms="100" status="PASS">
+        <test-method signature="isLoginPageDisplayed()[pri:0, instance:tests.LoginPageTest@4439a548]" started-at="2024-09-10T10:12:49 CDT" name="isLoginPageDisplayed" finished-at="2024-09-10T10:12:49 CDT" duration-ms="78" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- isLoginPageDisplayed -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.LoginPageTest@77e6081a]" started-at="2024-09-09T16:18:02 CDT" name="tearDown" finished-at="2024-09-09T16:18:02 CDT" duration-ms="269" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.LoginPageTest@4439a548]" started-at="2024-09-10T10:12:49 CDT" name="tearDown" finished-at="2024-09-10T10:12:49 CDT" duration-ms="322" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.LoginPageTest@77e6081a]" started-at="2024-09-09T16:18:02 CDT" name="setUp" finished-at="2024-09-09T16:18:06 CDT" duration-ms="4124" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.LoginPageTest@4439a548]" started-at="2024-09-10T10:12:49 CDT" name="setUp" finished-at="2024-09-10T10:12:54 CDT" duration-ms="4636" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="loginToHomepage()[pri:0, instance:tests.LoginPageTest@77e6081a]" started-at="2024-09-09T16:18:06 CDT" name="loginToHomepage" finished-at="2024-09-09T16:18:07 CDT" duration-ms="533" status="PASS">
+        <test-method signature="loginToHomepage()[pri:0, instance:tests.LoginPageTest@4439a548]" started-at="2024-09-10T10:12:54 CDT" name="loginToHomepage" finished-at="2024-09-10T10:12:54 CDT" duration-ms="356" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginToHomepage -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.LoginPageTest@77e6081a]" started-at="2024-09-09T16:18:07 CDT" name="tearDown" finished-at="2024-09-09T16:18:07 CDT" duration-ms="243" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.LoginPageTest@4439a548]" started-at="2024-09-10T10:12:54 CDT" name="tearDown" finished-at="2024-09-10T10:12:54 CDT" duration-ms="258" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.LoginPageTest@77e6081a]" started-at="2024-09-09T16:18:07 CDT" name="setUp" finished-at="2024-09-09T16:18:12 CDT" duration-ms="4345" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.LoginPageTest@4439a548]" started-at="2024-09-10T10:12:54 CDT" name="setUp" finished-at="2024-09-10T10:13:00 CDT" duration-ms="5267" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="verifyProductCount()[pri:0, instance:tests.LoginPageTest@77e6081a]" started-at="2024-09-09T16:18:12 CDT" name="verifyProductCount" finished-at="2024-09-09T16:18:12 CDT" duration-ms="682" status="PASS">
+        <test-method signature="verifyProductCount()[pri:0, instance:tests.LoginPageTest@4439a548]" started-at="2024-09-10T10:13:00 CDT" name="verifyProductCount" finished-at="2024-09-10T10:13:00 CDT" duration-ms="581" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyProductCount -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.LoginPageTest@77e6081a]" started-at="2024-09-09T16:18:12 CDT" name="tearDown" finished-at="2024-09-09T16:18:13 CDT" duration-ms="312" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.LoginPageTest@4439a548]" started-at="2024-09-10T10:13:00 CDT" name="tearDown" finished-at="2024-09-10T10:13:00 CDT" duration-ms="245" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

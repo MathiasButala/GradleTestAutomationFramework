@@ -1,8 +1,12 @@
-Tests/LoginPageTest.java
- Tests.LoginPageTest
-Tests/BaseTest.java
- Tests.BaseTest
+PageModels/Inventory.java
+ PageModels.Inventory
 PageModels/BasePage.java
  PageModels.BasePage
+tests/BaseTest.java
+ tests.BaseTest
+tests/LoginPageTest.java
+ tests.LoginPageTest
+PageModels/Homepage.java
+ PageModels.Homepage
 PageModels/LoginPage.java
  PageModels.LoginPage
