@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="tests.LoginPageTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2024-09-09T21:18:02" hostname="DESKTOP-DGUA4DA" time="10.3">
+  <properties/>
+  <testcase name="isLoginPageDisplayed" classname="tests.LoginPageTest" time="0.1"/>
+  <testcase name="loginToHomepage" classname="tests.LoginPageTest" time="0.533"/>
+  <testcase name="verifyProductCount" classname="tests.LoginPageTest" time="0.682"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+Starting ChromeDriver 128.0.6613.119 (6e439cfca4deda5954b0c74cde9b521c03cb31ad-refs/branch-heads/6613@{#1464}) on port 62958
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully on port 62958.
+Sep 09, 2024 4:18:00 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected upstream dialect: W3C
+Sep 09, 2024 4:18:00 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 128, so returning the closest version found: a no-op implementation
+Sep 09, 2024 4:18:00 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+INFO: Unable to find CDP implementation matching 128.
+Sep 09, 2024 4:18:00 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$3
+WARNING: Unable to find version of CDP to use for . You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.3.0` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
+Starting ChromeDriver 128.0.6613.119 (6e439cfca4deda5954b0c74cde9b521c03cb31ad-refs/branch-heads/6613@{#1464}) on port 54030
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully on port 54030.
+Sep 09, 2024 4:18:04 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected upstream dialect: W3C
+Sep 09, 2024 4:18:04 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 128, so returning the closest version found: a no-op implementation
+Sep 09, 2024 4:18:04 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+INFO: Unable to find CDP implementation matching 128.
+Sep 09, 2024 4:18:04 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$3
+WARNING: Unable to find version of CDP to use for . You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.3.0` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
+Starting ChromeDriver 128.0.6613.119 (6e439cfca4deda5954b0c74cde9b521c03cb31ad-refs/branch-heads/6613@{#1464}) on port 53116
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully on port 53116.
+Sep 09, 2024 4:18:09 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected upstream dialect: W3C
+Sep 09, 2024 4:18:09 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 128, so returning the closest version found: a no-op implementation
+Sep 09, 2024 4:18:09 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+INFO: Unable to find CDP implementation matching 128.
+Sep 09, 2024 4:18:09 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$3
+WARNING: Unable to find version of CDP to use for . You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.3.0` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
+]]></system-err>
+</testsuite>
